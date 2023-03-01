@@ -11,4 +11,9 @@ Lab 3 consisted of running various python program files from the command line. W
 
 Lab 3
 ---
-![python1]()
+
+![python1](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab3/python1.PNG)
+
+![python2](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab3/python2.PNG)
+
+![python3](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab3/python3.PNG)
