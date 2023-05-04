@@ -12,10 +12,14 @@ Lab 6 consisted of running 4 python program files from the command line and acce
 
 Lab 6
 ---
+hello-world.js
 ![python1](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab6/hello-world.png)
 
+hello.js
 ![python2](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab6/hello.png)
 
+http.js
 ![python3](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab6/http.png)
 
+say-hello.png
 ![python3](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab6/say-hello.png)
