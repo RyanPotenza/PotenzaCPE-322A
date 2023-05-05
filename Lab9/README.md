@@ -1,25 +1,23 @@
 # CPE 322-A
 ## Ryan Potenza
-*Lab 1*
+*Lab 9*
 
 I pledge my honor that I have abided by the Stevens Honor System
 
 ---
-The images contained in this directory contain the complete results for Lab 1.
+The images contained in this directory contain the complete results for Lab 9.
 
 ---
-WSL 2 was used to download and run ghdl and gtkwave. In order to utilize the display functionality of gtkwave on WSL 2, MobaXTerm was used as a Windows X server port.
+Lab 9 consisted of generating a .yin and .uml file from intrusiondetection.yang using pyang, and generating a .png file from the .uml file using PlantUML. The process can be seen below.
 
-GHDL setup 
+### Yin file
 ---
-![ghdl setup](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab1/ghdl.PNG)
+![ghdl setup](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab9/yin.png)
 
-Half Adder Running
+### Generate intrusiondetection.png
+'rpotenza@DESKTOP-KCI1187:~/demo$ python3 -m plantuml intrusiondetection.uml
+[{'filename': 'intrusiondetection.uml', 'gen_success': True}]'
+
+### intrusiondetection.png
 ---
-![half adder gtkwave](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab1/halfadder.PNG)
-
-D Flip-Flop Running
----
-WSL terminal used to run gtkwave in MobaXTerm also displayed
-
-![D Flip-Flop](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab1/DFlipFlop.PNG)
+![intrusiondetection.png](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab9/intrusiondetection.png)
