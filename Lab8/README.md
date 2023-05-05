@@ -1,25 +1,23 @@
 # CPE 322-A
 ## Ryan Potenza
-*Lab 1*
+*Lab 8*
 
 I pledge my honor that I have abided by the Stevens Honor System
 
 ---
-The images contained in this directory contain the complete results for Lab 1.
+The images contained in this directory contain the complete results for Lab 8.
 
 ---
-WSL 2 was used to download and run ghdl and gtkwave. In order to utilize the display functionality of gtkwave on WSL 2, MobaXTerm was used as a Windows X server port.
+WSL 2 Was used to configure and run the two python files. MobaXTerm was used as a WSL x server to display the graphs required.
 
-GHDL setup 
+plt_final Running
 ---
-![ghdl setup](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab1/ghdl.PNG)
+![plt_final](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab8/plt_final.png)
 
-Half Adder Running
+X server setup
 ---
-![half adder gtkwave](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab1/halfadder.PNG)
+![x server](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab8/xserver.png)
 
-D Flip-Flop Running
+plt_cv2 Running
 ---
-WSL terminal used to run gtkwave in MobaXTerm also displayed
-
-![D Flip-Flop](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab1/DFlipFlop.PNG)
+![plt_cv2](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab8/plt_cv2.png)
