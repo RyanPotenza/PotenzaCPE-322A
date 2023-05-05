@@ -1,25 +1,36 @@
 # CPE 322-A
 ## Ryan Potenza
-*Lab 1*
+*Lab 10*
 
 I pledge my honor that I have abided by the Stevens Honor System
 
 ---
-The images contained in this directory contain the complete results for Lab 1.
+The images contained in this directory contain the complete results for Lab 10.
 
 ---
-WSL 2 was used to download and run ghdl and gtkwave. In order to utilize the display functionality of gtkwave on WSL 2, MobaXTerm was used as a Windows X server port.
+Lab 10 consisted of: 
+-Running hash_value.py twice to hash values
+-Running snakecoin.py to build a small blockchain
+-Running snakecoin-server-full-code.py and mining a block off of that server
+-Running node_server.py and run_app.py to run a python blockchain app
 
-GHDL setup 
+### hash_value.py
 ---
-![ghdl setup](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab1/ghdl.PNG)
+![hashvalue](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab10/hash_value.png)
 
-Half Adder Running
+### snakecoin.py
 ---
-![half adder gtkwave](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab1/halfadder.PNG)
+![snakecoin](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab10/snakecoin.png)
 
-D Flip-Flop Running
+### Running snakecoin-server-full-code.py and mining a block
 ---
-WSL terminal used to run gtkwave in MobaXTerm also displayed
+![snakecoin-server-full-code](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab10/mine.png)
 
-![D Flip-Flop](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab1/DFlipFlop.PNG)
+### Running node_server.py and run_app.py
+![server-app](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab10/server-app.png)
+
+### Mining block
+![mine block #1](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab10/block1.png)
+
+### Accessing YourNet from run_app.py
+![hashvalue](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab10/yournet.png)
