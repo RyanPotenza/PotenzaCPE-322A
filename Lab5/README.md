@@ -12,4 +12,4 @@ Lab 5 consisted of running two python program files from the command line at the
 
 Lab 5
 ---
-![python1](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab5/lab5.png)
+![lab5](https://github.com/RyanPotenza/PotenzaCPE-322A/blob/main/Lab5/lab5.png)
