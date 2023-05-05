@@ -10,12 +10,12 @@ I pledge my honor that I have abided by the Stevens Honor System.
 
 The lab consists of the following steps:
 
-- `thingspeak_cpu_loop.py` was initially run using WSL 2 CLI.
-- `gspread` and `oauth2client` were installed.
-- GCP IAM and `cpudata` project were configured.
-- The Drive and Sheets API's were enabled.
-- A Google Sheet was created and linked to the GCP IAM service account.
-- The `cpu_spreadsheet.py` script was edited to contain the correct JSON key file name and ran.
+- `thingspeak_cpu_loop.py` was initially run using WSL 2 CLI
+- `gspread` and `oauth2client` were installed
+- GCP IAM and `cpudata` project were configured
+- The Drive and Sheets API's were enabled
+- A Google Sheet was created and linked to the GCP IAM service account
+- The `cpu_spreadsheet.py` script was edited to contain the correct JSON key file name and ran
 
 ### Images
 
